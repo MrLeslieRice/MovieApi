@@ -1,4 +1,0 @@
-2020-11-21 21:37:25,070  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
- 2020-11-21 21:37:25,534  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Hosting environment: Development
- 2020-11-21 21:37:25,541  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Content root path: C:\WebApis\MovieApi\MovieApi
- 
